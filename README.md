@@ -2,4 +2,5 @@
 ## About
 This project is a Git practice lab.
 Edited directly on GitHub.
-temporary line to remove later
+## Description
+A hands-on lab repository for practicing Git and GitHub.
